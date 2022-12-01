@@ -1,0 +1,7 @@
+{
+  "name": "fit-machine-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
